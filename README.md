@@ -24,7 +24,7 @@ Please click on the preview below for the full PDF.
 [![Preview](./documentation/IMG_5143.png)](./documentation/OOP_Final_Report.pdf)
 
 # Project Ideation
-![Customer_GUI](./documentation/Customer_GUI.png)
+![Customer_GUI](./documentation/Customer_GUI.PNG)
 ![Deliverer_GUI](./documentation/Deliverer_GUI.png)
 
 
